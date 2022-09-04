@@ -1,5 +1,7 @@
 
-# Bookmarks
+## search engines
+
+* [DDG](https://duckduckgo.com/)
 
 ## news & blogs
 * [fefes blog](http://blog.fefe.de)
