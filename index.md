@@ -3,6 +3,7 @@
 
 ## news & blogs
 * [fefes blog](http://blog.fefe.de)
+* [fefes blog](http://blog.fefe.de/aaa)
 * [taz](https://taz.de)
 
 ## code
