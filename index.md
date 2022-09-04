@@ -1,5 +1,5 @@
 
 # Bookmarks
 
-* http://blog.fefe.de
-* https://taz.de
+* [fefes blog](http://blog.fefe.de)
+* [taz](https://taz.de)
