@@ -1,4 +1,11 @@
 
+# My Links
+* [Benni @ Github](https://github.com/bboortz)
+* [Benni @ LinkedIn](https://de.linkedin.com/in/benjamin-boortz-178924173)
+* [Benni @ Twitter](https://twitter.com/benniBoortz)
+
+# Other Links
+
 ## search engines
 
 * [DDG](https://duckduckgo.com/)
@@ -6,10 +13,6 @@
 ## news & blogs
 * [fefes blog](http://blog.fefe.de)
 * [taz](https://taz.de)
-
-## code
-
-* [Github](https://github.com/bboortz)
 
 ## rust
 
