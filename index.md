@@ -46,6 +46,7 @@
 * [Using QEMU to emulate a Raspberry Pi](https://blog.agchapman.com/using-qemu-to-emulate-a-raspberry-pi/)
 
 ## APIs
+* [HTTP Status](https://httpstat.us/)
 * [Using cURL to interact with Google Data services](https://developers.google.com/gdata/articles/using_cURL)
 * [Chuck Norris API](https://api.chucknorris.io/)
 
